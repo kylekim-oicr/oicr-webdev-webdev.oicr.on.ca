@@ -134,7 +134,13 @@ partners:
       website: https://ao.oicr.on.ca/
     - abbr: oicr-labs
       logo: /assets/site/images/logo-oicr-labs.png
-      website: https://labs.oicr.on.ca/    
+      website: https://labs.oicr.on.ca/
+    - abbr: oicr-forms
+      logo: /assets/site/images/logo-oicr-forms.svg
+      website: https://forms.oicr.on.ca/
+    - abbr: oicr-cud
+      logo: /assets/site/images/logo-cud.svg
+      website: https://cud.oicr.on.ca/
     - abbr: oicr-genomics
       logo: /assets/site/images/logo-oicr-genomics.png
       website: https://genomics.oicr.on.ca/
